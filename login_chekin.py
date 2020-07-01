@@ -1,8 +1,8 @@
 import requests, re
 
 #填写邮箱和密码，其他不需要动
-e_mail = '773920063@qq.com'
-password = '773920063'
+e_mail = '@qq.com'
+password = '000000'
 
 def m87_check_in(ID, passwd):
     login_url = "https://m87is.best/auth/login"
