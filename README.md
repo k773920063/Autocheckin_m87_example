@@ -1,3 +1,3 @@
-# Autocheckin_m87_example
+# Autocheckin_AMNA_example
 自动登录签到（基于Action）  
-https://m87is.best/
+https://pro.amna.cc/
